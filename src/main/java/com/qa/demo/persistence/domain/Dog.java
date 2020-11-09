@@ -15,6 +15,7 @@ public class Dog {
 	private String colour;
 	private String size;
 	
+	//constructor
 	public Dog() {
 		super();
 	}
